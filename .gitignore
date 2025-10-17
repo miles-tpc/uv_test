@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# pytest
+.pytest_cache/
+
+# uv
+.uv/
+.uv-cache/
+
+# Misc
+*.swp
+*.swo
+
+
